@@ -1,3 +1,5 @@
+# CDC Environmental Justice Index Data
+
 In January 2025, the CDC removed its Environmental Justice Index (EJI) page from its website pursuant to Trump Administration Policy.
 
 The last archive.org archive of the EJI home page is available [here](https://web.archive.org/web/20241105220532/https://www.atsdr.cdc.gov/placeandhealth/eji/index.html). 
